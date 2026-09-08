@@ -130,7 +130,7 @@ Predictive-Maintenance/
 ## ▶️ Run the Project
 
 ```bash
-git clone https://github.com/<your-username>/predictive-maintenance.git
+git clone https://github.com/ikram-ul-haq103/predictive-maintenance.git
 cd predictive-maintenance
 pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn notebook
 jupyter notebook
